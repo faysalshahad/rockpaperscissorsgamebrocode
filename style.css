@@ -1,0 +1,33 @@
+body{
+    background-color: #FFF9C9;
+}
+.gameDiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1.25rem;
+    text-align: center;
+}
+.headingText{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: crimson;
+}
+.choiceBtn{
+    line-height: 3rem;
+    width: 10rem;
+    background-color: coral;
+    font-size: 2.2rem;
+    margin-left: 2rem;
+    font-weight: bolder;
+}
+#playerText, #playerWinText{
+    color: blue;
+    font-size: 2.2rem;
+}
+#computerText, #computerWinText{
+    color: red;
+    font-size: 2.2rem;
+}
+#resultText{
+    color: green;
+    font-size: 4rem;
+}
